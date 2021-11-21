@@ -1,7 +1,6 @@
 # 😺 Hola, soy drgato785
 
 <img src="https://img.shields.io/github/stars/drgatoxd?color=fca903&label=%E2%AD%90%20STARS&style=for-the-badge">
-<img src="https://img.shields.io/github/stars/drgatoxd?color=fca903&label=%E2%AD%90%20STARS&style=for-the-badge">
 
 Soy un niñito de 14 años que está aprendiendo a programar. En un futuro seré un full-stack xd (al menos eso espero)
 
